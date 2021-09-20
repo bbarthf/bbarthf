@@ -1,4 +1,4 @@
-## Oiii! Eu sou a Brenda Barth 😊
+## Oiii! Eu sou a Brenda Barth 😊 👩‍💻
  <div>
   <a href="https://github.com/bbarthf">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bbarthf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
